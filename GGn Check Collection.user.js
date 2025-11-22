@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GGn Check Collection
-// @namespace    https://github.com/Suwmlee/tracker-scripts
+// @namespace    https://github.com/Suwmlee/monkey-scripts
 // @version      0.2
 // @description  better style for Check a collection page
 // @author       suwmlee

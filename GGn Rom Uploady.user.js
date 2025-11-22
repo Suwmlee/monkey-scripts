@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GGn Rom Uploady
-// @namespace    https://github.com/Suwmlee/tracker-scripts
+// @namespace    https://github.com/Suwmlee/monkey-scripts
 // @version      0.5
 // @description  rom Uploady for GGn
 // @author       cat, suwmlee

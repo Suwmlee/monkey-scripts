@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         BTN HR Inactive Torrent
-// @namespace    https://github.com/Suwmlee/tracker-scripts
+// @namespace    https://github.com/Suwmlee/monkey-scripts
 // @version      0.2
 // @description  download BTN HR and Inactive torrents 
 // @author       suwmlee
