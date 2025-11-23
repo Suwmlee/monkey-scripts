@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HSGuru 中文美化脚本
 // @namespace    https://github.com/Suwmlee/monkey-scripts
-// @version      0.7.1
+// @version      0.7.2
 // @description  将HSGuru网站的部分英文替换为中文，并提供界面美化。
 // @author       深海之鱼,suwmlee
 // @match        https://www.hsguru.com/*
@@ -1596,9 +1596,16 @@
         ['Thrive in the Shadows', '暗中生长'],
         // 纳克萨玛斯,
         ['Loatheb', '洛欧塞布'],
+        // 狗头人,
+        ['King Togwaggle', '托瓦格尔国王'],
+        // 女巫森林,
+        ['Azalina Soulthief', '窃魂者阿扎莉娜'],
+        ['Shudderwock', '沙德沃克'],
         // 通灵学园,
         ['Sphere of Sapience', '感知宝珠'],
         ['Lorekeeper Polkelt', '博学者普克尔特'],
+        // 贫瘠之地,
+        ['Mutanus the Devourer', '吞噬者穆坦努斯'],
         // 暴风城下的集结,
         ['The Demon Seed', '恶魔之种'],
         ['Elwynn Boar', '艾尔文野猪'],
@@ -1607,13 +1614,17 @@
         ['Wildheart Guff', '野性之心古夫'],
         // 探寻沉没之城,
         ['From the Depths', '深海来客'],
+        ['Smothering Starfish', '掩息海星'],
         ['Igneous Lavagorger', '火成熔岩吞食者'],
         // 纳斯利亚堡,
         ['Tight-Lipped Witness', '无语的证人'],
+        ['Objection!', '异议'],
         ['Prince Renathal', '雷纳索尔王子'],
         ['Theotar, the Mad Duke', '癫狂公爵西塔尔'],
         // 冰封王座的骑士,
         ['Forge of Souls', '灵魂洪炉'],
+        ['Dead Man\'s Hand', '亡者之牌'],
+        ['Skulking Geist', '游荡恶鬼'],
         // 巫妖王的进军,
         ['Grand Magister Rommath', '大法师罗斯曼'],
         // 传奇音乐节,
@@ -1625,6 +1636,9 @@
         ['Odyn, Prime Designate', '首席管理官奥丁'],
         // 决战荒芜之地,
         ['Aftershocks', '余震'],
+        ['Deepminer Brann', '深岩矿工布莱恩'],
+        ['Reno, Lone Ranger', '孤胆游侠雷诺'],
+        ['Boomboss Tho\'grun', '爆破工头索格伦'],
         // 世界之树的余烬,
         ['Charred Chameleon', '火炭变色龙'],
         ['Smoldering Strength', '焚火之力'],

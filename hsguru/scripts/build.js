@@ -5,7 +5,7 @@ const path = require('path');
 console.log('🔨 构建 HSGuru 用户脚本...\n');
 
 // 读取模板文件
-const templateFile = path.join(__dirname, '../src/template.js');
+const templateFile = path.join(__dirname, '../src/main.js');
 let template = fs.readFileSync(templateFile, 'utf8');
 
 // 读取翻译数据
