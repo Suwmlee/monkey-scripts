@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HSGuru 中文美化脚本
 // @namespace    https://github.com/Suwmlee/monkey-scripts
-// @version      0.7.0
+// @version      0.7.1
 // @description  将HSGuru网站的部分英文替换为中文，并提供界面美化。
 // @author       深海之鱼,suwmlee
 // @match        https://www.hsguru.com/*
@@ -1594,24 +1594,35 @@
         ['The Amazing Reno', '神奇的雷诺'],
         ['Morphing Card', '百变卡牌'],
         ['Thrive in the Shadows', '暗中生长'],
+        // 纳克萨玛斯,
+        ['Loatheb', '洛欧塞布'],
         // 通灵学园,
         ['Sphere of Sapience', '感知宝珠'],
         ['Lorekeeper Polkelt', '博学者普克尔特'],
-        // 冰封王座的骑士,
-        ['Forge of Souls', '灵魂洪炉'],
-        // 泰坦诸神,
-        ['Stoneskin Armorer', '岩肤护甲商'],
-        ['Sanitize', '清理污染'],
-        ['Odyn, Prime Designate', '首席管理官奥丁'],
+        // 暴风城下的集结,
+        ['The Demon Seed', '恶魔之种'],
+        ['Elwynn Boar', '艾尔文野猪'],
+        // 奥特兰克的决裂,
+        ['Shield Shatter', '裂盾一击'],
+        ['Wildheart Guff', '野性之心古夫'],
         // 探寻沉没之城,
         ['From the Depths', '深海来客'],
         ['Igneous Lavagorger', '火成熔岩吞食者'],
         // 纳斯利亚堡,
         ['Tight-Lipped Witness', '无语的证人'],
         ['Prince Renathal', '雷纳索尔王子'],
+        ['Theotar, the Mad Duke', '癫狂公爵西塔尔'],
+        // 冰封王座的骑士,
+        ['Forge of Souls', '灵魂洪炉'],
+        // 巫妖王的进军,
+        ['Grand Magister Rommath', '大法师罗斯曼'],
         // 传奇音乐节,
         ['E.T.C., Band Manager', '乐队经理精英牛头人酋长'],
         ['Photographer Fizzle', '摄影师菲兹尔'],
+        // 泰坦诸神,
+        ['Stoneskin Armorer', '岩肤护甲商'],
+        ['Sanitize', '清理污染'],
+        ['Odyn, Prime Designate', '首席管理官奥丁'],
         // 决战荒芜之地,
         ['Aftershocks', '余震'],
         // 世界之树的余烬,
