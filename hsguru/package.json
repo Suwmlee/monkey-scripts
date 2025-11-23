@@ -1,0 +1,12 @@
+{
+  "name": "hsguru-userscript",
+  "version": "0.5.0",
+  "description": "HSGuru 中文美化脚本",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "keywords": ["userscript", "hearthstone", "hsguru"],
+  "author": "深海之鱼",
+  "license": "MIT"
+}
+
