@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HSGuru 中文美化脚本
 // @namespace    https://github.com/Suwmlee/monkey-scripts
-// @version      0.7.2
+// @version      0.7.5
 // @description  将HSGuru网站的部分英文替换为中文，并提供界面美化。
 // @author       深海之鱼,suwmlee
 // @match        https://www.hsguru.com/*
@@ -1603,8 +1603,10 @@
         ['Shudderwock', '沙德沃克'],
         // 通灵学园,
         ['Sphere of Sapience', '感知宝珠'],
+        ['Potion of Illusion', '幻觉药水'],
         ['Lorekeeper Polkelt', '博学者普克尔特'],
         // 贫瘠之地,
+        ['Varden Dawngrasp', '瓦尔登·晨拥'],
         ['Mutanus the Devourer', '吞噬者穆坦努斯'],
         // 暴风城下的集结,
         ['The Demon Seed', '恶魔之种'],
@@ -1612,6 +1614,7 @@
         // 奥特兰克的决裂,
         ['Shield Shatter', '裂盾一击'],
         ['Wildheart Guff', '野性之心古夫'],
+        ['Magister Dawngrasp', '魔导士晨拥'],
         // 探寻沉没之城,
         ['From the Depths', '深海来客'],
         ['Smothering Starfish', '掩息海星'],
@@ -1619,6 +1622,7 @@
         // 纳斯利亚堡,
         ['Tight-Lipped Witness', '无语的证人'],
         ['Objection!', '异议'],
+        ['Solid Alibi', '脱罪力证'],
         ['Prince Renathal', '雷纳索尔王子'],
         ['Theotar, the Mad Duke', '癫狂公爵西塔尔'],
         // 冰封王座的骑士,
@@ -1626,9 +1630,13 @@
         ['Dead Man\'s Hand', '亡者之牌'],
         ['Skulking Geist', '游荡恶鬼'],
         // 巫妖王的进军,
+        ['Astalor Bloodsworn', '阿斯塔洛·血誓'],
         ['Grand Magister Rommath', '大法师罗斯曼'],
         // 传奇音乐节,
+        ['Rewind', '倒带'],
         ['E.T.C., Band Manager', '乐队经理精英牛头人酋长'],
+        ['Lightshow', '灯光表演'],
+        ['Volume Up', '加大音量'],
         ['Photographer Fizzle', '摄影师菲兹尔'],
         // 泰坦诸神,
         ['Stoneskin Armorer', '岩肤护甲商'],

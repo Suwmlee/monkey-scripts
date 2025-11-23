@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HSGuru 中文美化脚本
 // @namespace    https://github.com/Suwmlee/monkey-scripts
-// @version      0.7.2
+// @version      0.7.5
 // @description  将HSGuru网站的部分英文替换为中文，并提供界面美化。
 // @author       深海之鱼,suwmlee
 // @match        https://www.hsguru.com/*
